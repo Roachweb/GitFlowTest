@@ -1,3 +1,5 @@
 My feature more stuff
 
 release fix
+
+2nd Feature
